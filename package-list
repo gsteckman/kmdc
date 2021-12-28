@@ -1,0 +1,66 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/kmdc-snackbar/[root]/index.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbar.Companion///PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar/-companion/index.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbar.Companion/attachTo/#org.w3c.dom.Element/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar/-companion/attach-to.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbar///PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar/index.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbar/MDCSnackbar/#org.w3c.dom.Element/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar/-m-d-c-snackbar.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbar/actionButtonText/#/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar/action-button-text.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbar/close/#kotlin.String/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar/close.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbar/closeOnEscape/#/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar/close-on-escape.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbar/destroy/#/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar/destroy.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbar/getDefaultFoundation/#/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar/get-default-foundation.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbar/initialSyncWithDOM/#/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar/initial-sync-with-d-o-m.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbar/initialize/#kotlin.Function2[org.w3c.dom.Element,kotlin.Any,kotlin.Function0[kotlin.Function2[org.w3c.dom.Element,org.w3c.dom.Element?,kotlin.Unit]]]/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar/initialize.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbar/isOpen/#/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar/is-open.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbar/labelText/#/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar/label-text.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbar/open/#/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar/open.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbar/timeoutMs/#/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar/timeout-ms.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbarCloseEvent///PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar-close-event/index.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbarCloseEvent/MDCSnackbarCloseEvent/#/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar-close-event/-m-d-c-snackbar-close-event.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbarCloseEventDetail///PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar-close-event-detail/index.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbarCloseEventDetail/reason/#/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar-close-event-detail/reason.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbarOpenEvent///PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar-open-event/index.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbarOpenEvent/MDCSnackbarOpenEvent/#/PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar-open-event/-m-d-c-snackbar-open-event.html
+$dokka.location:/MDCSnackbarModule.MDCSnackbarOpenEventDetail///PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/-m-d-c-snackbar-open-event-detail/index.html
+$dokka.location:/MDCSnackbarModule///PointingToDeclaration/kmdc-snackbar/[root]/-m-d-c-snackbar-module/index.html
+module:kmdc-button
+dev.petuska.kmdc.button
+module:kmdc-card
+dev.petuska.kmdc.card
+module:kmdc-checkbox
+dev.petuska.kmdc.checkbox
+module:kmdc-chips
+dev.petuska.kmdc.chips
+module:kmdc-core
+dev.petuska.kmdc.core
+module:kmdc-drawer
+dev.petuska.kmdc.drawer
+module:kmdc-form-field
+dev.petuska.kmdc.form.field
+module:kmdc-icon-button
+dev.petuska.kmdc.icon.button
+module:kmdc-layout-grid
+dev.petuska.kmdc.layout.grid
+module:kmdc-linear-progress
+dev.petuska.kmdc.linear.progress
+module:kmdc-list
+dev.petuska.kmdc.list
+module:kmdc-radio
+dev.petuska.kmdc.radio
+module:kmdc-ripple
+dev.petuska.kmdc.ripple
+module:kmdc-segmented-button
+dev.petuska.kmdc.segmented.button
+module:kmdc-snackbar
+dev.petuska.kmdc.snackbar
+module:kmdc-textfield
+dev.petuska.kmdc.textfield
+module:kmdc-tooltip
+dev.petuska.kmdc.tooltip
+module:kmdc-top-app-bar
+dev.petuska.kmdc.top.app.bar
+module:kmdc-typography
+dev.petuska.kmdc.typography
+module:kmdcx-icons
+dev.petuska.kmdcx.icons
